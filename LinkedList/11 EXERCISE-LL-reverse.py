@@ -132,5 +132,6 @@ my_linked_list.append(2)
 my_linked_list.append(3)
 my_linked_list.append(4)
 my_linked_list.reverse()
+print("Printing reversed linkedlist")
 my_linked_list.print_list()
                                                                                                                     
