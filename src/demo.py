@@ -1,1 +1,1 @@
-demo
+print('hello')
